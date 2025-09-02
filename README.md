@@ -64,3 +64,4 @@ These files were uploaded to GitHub via both drag-and-drop (using Add file > Upl
 
 📌 Conclusion
 This task demonstrates essential skills in front-end web development, including responsive design, DOM manipulation, real-time feedback, and version control using Git. The project is not only technically sound but also polished and adaptable for real-world use. It reflects a solid understanding of how to build interactive applications with clean code and modern tools.
+OUTPUT:![Image](https://github.com/user-attachments/assets/b4496e47-267e-40c7-9957-dc0d3bd21b50)
